@@ -17,9 +17,6 @@ params:
       - label: Blog
         url: /blog/
         style: link
-      - label: Contact
-        url: /contact/
-        style: link
   footer:
     content: >-
       &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
